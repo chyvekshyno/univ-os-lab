@@ -3,7 +3,6 @@
 #include <fstream>
 #include <string>
 #include <exception>
-
 #include <thread>
 
 using namespace std;
