@@ -3,4 +3,4 @@ project(lab1)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(lab1 main.cpp)
+add_executable(lab1 main.cpp labutils.cpp labutils.h)
